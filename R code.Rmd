@@ -132,9 +132,8 @@ dat <- na.omit(dat) # 6537 Obs.
 ```
 
 ```{r}
- dat2 <- dat1[, c("star", "teacherid", "math")]
+dat2 <- dat1[, c("star", "teacherid", "math")]
 #kable(summary(dat2))
-
 ```
 
 The violin plot compares the median and means math scores of all students taught by each teacher between different class types. We observed that the median math scores have a lower variance with fewer outliers compares with the mean math scores by different class types. This comparison result gives us the intuition to use the median instead of mean as the measure of teacher level performance.
