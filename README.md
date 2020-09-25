@@ -13,7 +13,7 @@ To study these problems, we first defined a measure of teachers' teaching qualit
 <table>
 <tr><td width="300px">File Name</td><td width="500px">Description</td></tr>
 <tr><td width="300px">Analyze the Effect of Class Type on First Grade Math Scores Using Two-way ANOVA.pdf</td><td width="500px">Main file with plots and conclusions</td></tr>
-<tr><td width="300px">STAR_Students.sav</td><td width="500px">Data source</td></tr>
+<tr><td width="300px">STAR_Students.sav</td><td width="500px">Dataset</td></tr>
 <tr><td width="300px">R Code.Rmd</td><td width="500px">Related code</td></tr>
 <tr><td width="300px">t_statistics.txt</td><td width="500px">The file for simulated values</td></tr>
 <tr><td width="300px">ppt.pptx</td><td width="500px">PPT used for presentation</td></tr>
